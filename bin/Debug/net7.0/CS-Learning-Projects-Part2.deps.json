@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CS-Learning-Projects-Part2/1.0.0": {
+        "runtime": {
+          "CS-Learning-Projects-Part2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS-Learning-Projects-Part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

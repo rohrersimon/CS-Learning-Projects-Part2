@@ -1,0 +1,14 @@
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.AssemblyInfoInputs.cache
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.AssemblyInfo.cs
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.csproj.CoreCompileInputs.cache
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\bin\Debug\net7.0\CS-Learning-Projects-Part2.exe
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\bin\Debug\net7.0\CS-Learning-Projects-Part2.deps.json
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\bin\Debug\net7.0\CS-Learning-Projects-Part2.runtimeconfig.json
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\bin\Debug\net7.0\CS-Learning-Projects-Part2.dll
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\bin\Debug\net7.0\CS-Learning-Projects-Part2.pdb
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.dll
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\refint\CS-Learning-Projects-Part2.dll
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.pdb
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\CS-Learning-Projects-Part2.genruntimeconfig.cache
+C:\Users\Simon Rohrer\OneDrive - SL Network Solutions\Documents\GitHub\CS-Learning-Projects-Part2\obj\Debug\net7.0\ref\CS-Learning-Projects-Part2.dll
