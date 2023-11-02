@@ -4,14 +4,18 @@ public class Course4
 {
     public static void Module20()
     {
-        string validInput = "fulffy, strong, obedient";
-        string[] inputs = validInput.Split(',');
-        Array.Sort(inputs);
-
-        for (int i = 0; i < inputs.Length; i++)
+        string[] searchingIcons = { "/", "—", "|", "—", "\\", "*" };
+        string dogCharacteristic = "funny";
+        for (int j = 2; j > -1; j--)
         {
-            inputs[i] = inputs[i].Trim();
-            Console.WriteLine(inputs[i]);
+            // #5 update "searching" message to show countdown 
+            foreach (string icon in searchingIcons)
+            {
+                Console.Write($"\rsearching...{dogCharacteristic} {icon} {j}");
+                Thread.Sleep(500);
+            }
+
+            Console.Write($"\r{new String(' ', Console.BufferWidth)}");
         }
     }
     public static void Module19()
