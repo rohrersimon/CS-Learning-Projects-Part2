@@ -4,7 +4,9 @@ public class Course4
 {
     public static void Module20()
     {
-        
+        string sentence = "This is my very cool and long sentence that you must hear.";
+        string keyword = "cool";
+        Console.WriteLine(sentence.Contains(keyword));
     }
     public static void Module19()
     {
