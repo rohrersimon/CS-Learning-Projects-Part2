@@ -4,9 +4,15 @@ public class Course4
 {
     public static void Module20()
     {
-        string sentence = "This is my very cool and long sentence that you must hear.";
-        string keyword = "cool";
-        Console.WriteLine(sentence.Contains(keyword));
+        string validInput = "fulffy, strong, obedient";
+        string[] inputs = validInput.Split(',');
+        Array.Sort(inputs);
+
+        for (int i = 0; i < inputs.Length; i++)
+        {
+            inputs[i] = inputs[i].Trim();
+            Console.WriteLine(inputs[i]);
+        }
     }
     public static void Module19()
     {
